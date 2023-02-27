@@ -1,6 +1,7 @@
 .card {
    width: 176px;
    position: relative;
+   margin-right: 20px;
 
    .tag {
       height: 20px;
@@ -15,11 +16,10 @@
       align-items: center;
       justify-content: center;
       padding: 3px 4px;
-
    }
 
    img {
-      width: 100%;
+      width: 150px;
       border-radius: 9px;
    }
 
